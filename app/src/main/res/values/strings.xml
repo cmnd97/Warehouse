@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Warehouse</string>
+    <string name="sale_button">Sale</string>
+    <string name="new_product">Add new item</string>
+    <string name="supplier_email_title">Supplier E-mail Address</string>
+    <string name="supplier_phone_title">Supplier Phone</string>
+    <string name="supplier_name_title">Supplier Name</string>
+    <string name="quantity_title">Quantity</string>
+    <string name="price_title">Price</string>
+    <string name="product_name_title">Product Name</string>
+    <string name="currency_details">&#36; / item</string>
+    <string name="ok">OK</string>
+    <string name="editor_activity_title_new_item">Add new item</string>
+    <string name="editor_activity_title_edit_item">Edit item</string>
+    <string name="menu_order_item">Order more</string>
+    <string name="menu_delete_item">Delete item</string>
+    <string name="menu_delete_all_data">Delete all data</string>
+    <string name="phone">Phone</string>
+    <string name="email">E-mail</string>
+    <string name="order_message">You can place an order for this item by phone or e-mail</string>
+    <string name="delete_message">Are you sure you want to proceed with the deletion?</string>
+    <string name="delete">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_list_hint">There seems to be nothing here</string>
+    <string name="action_add_dummy_data">Add Dummy Data</string>
+    <string name="select_image">Select image</string>
+    <string name="image">Image</string>
+    <string name="unsaved_changes_dialog_msg">There are unsaved changes in the product information. Do you want to continue?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep editing</string>
+    <string name="space_dots"> &#160;&#58;&#160;&#160;&#160;</string>
+    <string name="missing_error">Missing image</string>
+    <string name="missing_product">Missing product&#160;</string>
+    <string name="please_input_amount_order">Please input the amount to order</string>
+    <string name="recurrent_order_title">Recurrent order</string>
+    <string name="please_send_us">Please send us&#160;</string>
+</resources>
